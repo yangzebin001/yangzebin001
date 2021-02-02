@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BeckoninGshy</h1>
 <h3 align="center">Stay hungry, stay foolish.</h3>
 
-- 🔭 I’m currently working on [BeC---compiler](https://github.com/yangzebin001/BeC---compiler) [TinyWebServer](https://github.com/yangzebin001/TinyWebServer)
+- 🔭 I’m currently working on [TinyWebServer](https://github.com/yangzebin001/TinyWebServer), [BeC---compiler](https://github.com/yangzebin001/BeC---compiler) 
 
 - 🌱 I’m currently learning **Java**
 
