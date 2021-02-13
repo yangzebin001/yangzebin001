@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TinyWebServer](https://github.com/yangzebin001/TinyWebServer), [BeC---compiler](https://github.com/yangzebin001/BeC---compiler) 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java**、**Spring Boot**
 
 - 📝 I regularly write articles on [https://yangzebin001.github.io/](https://yangzebin001.github.io/)
 
