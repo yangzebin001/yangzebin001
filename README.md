@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://yangzebin001.github.io/](https://yangzebin001.github.io/)
 
-- 📫 How to reach me **405678856@qq.com**
+- 📫 How to reach me **beckoningshy@gmail.com** **405678856@qq.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
